@@ -1,0 +1,10 @@
+torch
+torchvision
+torchaudio
+ccxt
+pandas
+numpy
+gymnasium
+stable-baselines3
+matplotlib
+jupyter
